@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamuelRun?tab=repositories](https://github.com/SamuelRun?tab=repositories)
 
-- 💬 Ask me about **HTML/CSS, Git, GitHub, VSCode, Figma, and JavaScrip**
+- 💬 Ask me about **HTML/CSS, Git, GitHub, VSCode, Figma, and JavaScript**
 
 - 📫 How to reach me **runsamuelt@gmail.com**
 
